@@ -40,7 +40,7 @@
     "micromatch": "^4.0.4",
     "neo-async": "^2.5.0",
     "node-dir": "^0.1.17",
-    "recast": "github:cling-godaddy/recast",
+    "recast": "git+https://github.com/cling-godaddy/recast.git",
     "temp": "^0.8.4",
     "write-file-atomic": "^2.3.0"
   },
